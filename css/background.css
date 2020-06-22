@@ -111,9 +111,7 @@ img {
 .layout_post>#post {
     background: rgba(255,255,255,.5);
 }
-#nav.not-index-bg {
-    height: 0rem;
-}
+
 #nav {
     background-color: transparent;
 }
